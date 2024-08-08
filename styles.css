@@ -52,7 +52,7 @@ main {
 }
 
 .card.matched {
-    background: #0f0;
+    background: rgb(80, 221, 80);
     cursor: default;
 }
 
