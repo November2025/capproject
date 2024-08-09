@@ -5,5 +5,5 @@ The game also analyzes data that is stored in arrays, objects, sets or maps to d
 It also updates the display to show which cards are currently face-up. 
 My game also retrieves data from a third-party API and uses it to display the pictures of the cats on the cards.
 The API used for this was: https://api.thecatapi.com.
-My game also utilizes the function to calculate and display data based on an external factor. For example, the timmer is running and you only have 2 minutes to get as many matches as possible.  
+My game also utilizes a feature to calculate and display data based on an external factor. For example, the timmer is running and you only have 2 minutes to get as many matches as possible.  
 To run and play my game please run it from the Live Server extension in Visual Studio Code.
