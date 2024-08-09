@@ -2,4 +2,5 @@ Welcome to my cat memory game! This game gives you 2 minutes to match as many ca
 Have fun and enjoy!!
 My game utilizes arrays, objects, sets or maps to store and retrieve information that is displayed. For example, my memory game has a grid of cards, and an array holds the values or images for each card.
 The game also analyzes data that is stored in arrays, objects, sets or maps to display information about it. For example, it shows the number of matches found or the number of moves made so far on the screen.
-Update the display to show which cards are currently face-up 
+Update the display to show which cards are currently face-up. 
+My game also retrieves data from a third-party API and uses it to display the pictures of the cats on the cards. 
