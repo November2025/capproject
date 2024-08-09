@@ -5,3 +5,4 @@ The game also analyzes data that is stored in arrays, objects, sets or maps to d
 It also updates the display to show which cards are currently face-up. 
 My game also retrieves data from a third-party API and uses it to display the pictures of the cats on the cards.
 The API used for this was: https://api.thecatapi.com.
+To run and play my game please run it from the Live Server extension in Visual Studio Code.
